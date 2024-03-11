@@ -1,0 +1,12 @@
+.LogoTicker{
+    width: 99vw;
+    height: 20vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 10px;
+}
+.LogoTicker>img{
+    height: 5vh;
+    width: 10%;
+}
