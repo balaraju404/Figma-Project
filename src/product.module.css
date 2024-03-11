@@ -36,12 +36,19 @@
     width: 95%;
     height: 20%;
     display: flex;
+    justify-content: space-evenly;
     gap: 20px;
 }
 .ic2>div{
     display: flex;
     flex-direction: column;
     gap: 5px;
+}
+.ic2>div>h2{
+    font-size: 16px;
+}
+.ic2>div>p{
+    font-size: 12px;
 }
 .productContainer>#img1{
     position: absolute;
